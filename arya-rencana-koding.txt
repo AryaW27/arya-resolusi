@@ -1,6 +1,8 @@
 RENCANA KODING ARYA
 
 - Javascript
+  * ES6
+  *Framework Javascript
 - Bootstrap 5
 - PHP Frameworks
 - Desktop (JAVA)
