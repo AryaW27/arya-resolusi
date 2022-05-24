@@ -3,7 +3,9 @@ RENCANA KODING ARYA
 - Javascript
   * ES6
   * Framework Javascript
-- Struktur Data Dasar
+    ^ Angular
+    ^ React
 - Bootstrap 5
 - PHP Frameworks
+  ^ Laravel
 - Desktop (JAVA)
